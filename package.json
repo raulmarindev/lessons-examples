@@ -1,0 +1,14 @@
+{
+  "name": "lessons-examples",
+  "version": "1.0.0",
+  "description": "Examples for my programming lessons (JavaScript and TypeScript).",
+  "main": "index.js",
+  "author": "Raúl Marín <rmarin82@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.27.0",
+    "@typescript-eslint/parser": "^2.27.0",
+    "eslint": "^6.8.0",
+    "typescript": "^3.8.3"
+  }
+}
